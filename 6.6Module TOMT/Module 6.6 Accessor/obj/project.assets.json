@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\6.6Module TOMT\\6.6Module Set Accessor.csproj",
-      "projectName": "6.6Module Set Accessor",
-      "projectPath": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\6.6Module TOMT\\6.6Module Set Accessor.csproj",
+      "projectUniqueName": "C:\\Projekt\\C#\\Accessor\\Accessor\\Accessor.csproj",
+      "projectName": "Accessor",
+      "projectPath": "C:\\Projekt\\C#\\Accessor\\Accessor\\Accessor.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\6.6Module TOMT\\obj\\",
+      "outputPath": "C:\\Projekt\\C#\\Accessor\\Accessor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

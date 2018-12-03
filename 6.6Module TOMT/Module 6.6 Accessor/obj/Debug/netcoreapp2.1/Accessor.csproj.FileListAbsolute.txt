@@ -1,0 +1,11 @@
+C:\Projekt\C#\Accessor\Accessor\bin\Debug\netcoreapp2.1\Accessor.deps.json
+C:\Projekt\C#\Accessor\Accessor\bin\Debug\netcoreapp2.1\Accessor.runtimeconfig.json
+C:\Projekt\C#\Accessor\Accessor\bin\Debug\netcoreapp2.1\Accessor.runtimeconfig.dev.json
+C:\Projekt\C#\Accessor\Accessor\bin\Debug\netcoreapp2.1\Accessor.dll
+C:\Projekt\C#\Accessor\Accessor\bin\Debug\netcoreapp2.1\Accessor.pdb
+C:\Projekt\C#\Accessor\Accessor\obj\Debug\netcoreapp2.1\Accessor.csprojAssemblyReference.cache
+C:\Projekt\C#\Accessor\Accessor\obj\Debug\netcoreapp2.1\Accessor.csproj.CoreCompileInputs.cache
+C:\Projekt\C#\Accessor\Accessor\obj\Debug\netcoreapp2.1\Accessor.AssemblyInfoInputs.cache
+C:\Projekt\C#\Accessor\Accessor\obj\Debug\netcoreapp2.1\Accessor.AssemblyInfo.cs
+C:\Projekt\C#\Accessor\Accessor\obj\Debug\netcoreapp2.1\Accessor.dll
+C:\Projekt\C#\Accessor\Accessor\obj\Debug\netcoreapp2.1\Accessor.pdb
