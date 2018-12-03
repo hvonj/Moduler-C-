@@ -1,0 +1,11 @@
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module2.3\Module2.3\bin\Debug\netcoreapp2.1\Module2.3.deps.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module2.3\Module2.3\bin\Debug\netcoreapp2.1\Module2.3.runtimeconfig.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module2.3\Module2.3\bin\Debug\netcoreapp2.1\Module2.3.runtimeconfig.dev.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module2.3\Module2.3\bin\Debug\netcoreapp2.1\Module2.3.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module2.3\Module2.3\bin\Debug\netcoreapp2.1\Module2.3.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module2.3\Module2.3\obj\Debug\netcoreapp2.1\Module2.3.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module2.3\Module2.3\obj\Debug\netcoreapp2.1\Module2.3.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module2.3\Module2.3\obj\Debug\netcoreapp2.1\Module2.3.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module2.3\Module2.3\obj\Debug\netcoreapp2.1\Module2.3.AssemblyInfo.cs
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module2.3\Module2.3\obj\Debug\netcoreapp2.1\Module2.3.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module2.3\Module2.3\obj\Debug\netcoreapp2.1\Module2.3.pdb

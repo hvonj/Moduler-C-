@@ -1,0 +1,11 @@
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module.4.1\Module.4.1\bin\Debug\netcoreapp2.1\Module.4.1.deps.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module.4.1\Module.4.1\bin\Debug\netcoreapp2.1\Module.4.1.runtimeconfig.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module.4.1\Module.4.1\bin\Debug\netcoreapp2.1\Module.4.1.runtimeconfig.dev.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module.4.1\Module.4.1\bin\Debug\netcoreapp2.1\Module.4.1.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module.4.1\Module.4.1\bin\Debug\netcoreapp2.1\Module.4.1.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module.4.1\Module.4.1\obj\Debug\netcoreapp2.1\Module.4.1.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module.4.1\Module.4.1\obj\Debug\netcoreapp2.1\Module.4.1.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module.4.1\Module.4.1\obj\Debug\netcoreapp2.1\Module.4.1.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module.4.1\Module.4.1\obj\Debug\netcoreapp2.1\Module.4.1.AssemblyInfo.cs
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module.4.1\Module.4.1\obj\Debug\netcoreapp2.1\Module.4.1.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module.4.1\Module.4.1\obj\Debug\netcoreapp2.1\Module.4.1.pdb

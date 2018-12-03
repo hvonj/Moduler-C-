@@ -1,0 +1,11 @@
+C:\Projekt\AcceleratedLearning\CsharpExercises\7.Module Inheritance\bin\Debug\netcoreapp2.1\Module7.deps.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\7.Module Inheritance\bin\Debug\netcoreapp2.1\Module7.runtimeconfig.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\7.Module Inheritance\bin\Debug\netcoreapp2.1\Module7.runtimeconfig.dev.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\7.Module Inheritance\bin\Debug\netcoreapp2.1\Module7.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\7.Module Inheritance\bin\Debug\netcoreapp2.1\Module7.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\7.Module Inheritance\obj\Debug\netcoreapp2.1\Module7.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\7.Module Inheritance\obj\Debug\netcoreapp2.1\Module7.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\7.Module Inheritance\obj\Debug\netcoreapp2.1\Module7.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\7.Module Inheritance\obj\Debug\netcoreapp2.1\Module7.AssemblyInfo.cs
+C:\Projekt\AcceleratedLearning\CsharpExercises\7.Module Inheritance\obj\Debug\netcoreapp2.1\Module7.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\7.Module Inheritance\obj\Debug\netcoreapp2.1\Module7.pdb

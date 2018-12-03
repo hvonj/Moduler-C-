@@ -1,0 +1,22 @@
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module3.7\Module3.7\bin\Debug\netcoreapp2.1\Module3.7.deps.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module3.7\Module3.7\bin\Debug\netcoreapp2.1\Module3.7.runtimeconfig.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module3.7\Module3.7\bin\Debug\netcoreapp2.1\Module3.7.runtimeconfig.dev.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module3.7\Module3.7\bin\Debug\netcoreapp2.1\Module3.7.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module3.7\Module3.7\bin\Debug\netcoreapp2.1\Module3.7.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module3.7\Module3.7\obj\Debug\netcoreapp2.1\Module3.7.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module3.7\Module3.7\obj\Debug\netcoreapp2.1\Module3.7.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module3.7\Module3.7\obj\Debug\netcoreapp2.1\Module3.7.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module3.7\Module3.7\obj\Debug\netcoreapp2.1\Module3.7.AssemblyInfo.cs
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module3.7\Module3.7\obj\Debug\netcoreapp2.1\Module3.7.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module3.7\Module3.7\obj\Debug\netcoreapp2.1\Module3.7.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\3.7Module Conditional operator\Module3.7\bin\Debug\netcoreapp2.1\Module3.7.deps.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\3.7Module Conditional operator\Module3.7\bin\Debug\netcoreapp2.1\Module3.7.runtimeconfig.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\3.7Module Conditional operator\Module3.7\bin\Debug\netcoreapp2.1\Module3.7.runtimeconfig.dev.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\3.7Module Conditional operator\Module3.7\bin\Debug\netcoreapp2.1\Module3.7.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\3.7Module Conditional operator\Module3.7\bin\Debug\netcoreapp2.1\Module3.7.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\3.7Module Conditional operator\Module3.7\obj\Debug\netcoreapp2.1\Module3.7.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\3.7Module Conditional operator\Module3.7\obj\Debug\netcoreapp2.1\Module3.7.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\3.7Module Conditional operator\Module3.7\obj\Debug\netcoreapp2.1\Module3.7.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\3.7Module Conditional operator\Module3.7\obj\Debug\netcoreapp2.1\Module3.7.AssemblyInfo.cs
+C:\Projekt\AcceleratedLearning\CsharpExercises\3.7Module Conditional operator\Module3.7\obj\Debug\netcoreapp2.1\Module3.7.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\3.7Module Conditional operator\Module3.7\obj\Debug\netcoreapp2.1\Module3.7.pdb

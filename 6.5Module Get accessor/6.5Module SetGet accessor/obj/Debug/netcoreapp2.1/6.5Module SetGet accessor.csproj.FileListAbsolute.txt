@@ -1,0 +1,11 @@
+C:\Projekt\AcceleratedLearning\CsharpExercises\6.5Module SetGet accessor\6.5Module SetGet accessor\bin\Debug\netcoreapp2.1\6.5Module SetGet accessor.deps.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\6.5Module SetGet accessor\6.5Module SetGet accessor\bin\Debug\netcoreapp2.1\6.5Module SetGet accessor.runtimeconfig.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\6.5Module SetGet accessor\6.5Module SetGet accessor\bin\Debug\netcoreapp2.1\6.5Module SetGet accessor.runtimeconfig.dev.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\6.5Module SetGet accessor\6.5Module SetGet accessor\bin\Debug\netcoreapp2.1\6.5Module SetGet accessor.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\6.5Module SetGet accessor\6.5Module SetGet accessor\bin\Debug\netcoreapp2.1\6.5Module SetGet accessor.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\6.5Module SetGet accessor\6.5Module SetGet accessor\obj\Debug\netcoreapp2.1\6.5Module SetGet accessor.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\6.5Module SetGet accessor\6.5Module SetGet accessor\obj\Debug\netcoreapp2.1\6.5Module SetGet accessor.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\6.5Module SetGet accessor\6.5Module SetGet accessor\obj\Debug\netcoreapp2.1\6.5Module SetGet accessor.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\6.5Module SetGet accessor\6.5Module SetGet accessor\obj\Debug\netcoreapp2.1\6.5Module SetGet accessor.AssemblyInfo.cs
+C:\Projekt\AcceleratedLearning\CsharpExercises\6.5Module SetGet accessor\6.5Module SetGet accessor\obj\Debug\netcoreapp2.1\6.5Module SetGet accessor.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\6.5Module SetGet accessor\6.5Module SetGet accessor\obj\Debug\netcoreapp2.1\6.5Module SetGet accessor.pdb

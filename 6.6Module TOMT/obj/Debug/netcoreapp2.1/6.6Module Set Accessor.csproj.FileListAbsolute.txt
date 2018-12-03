@@ -1,0 +1,4 @@
+C:\Projekt\AcceleratedLearning\CsharpExercises\6.6Module TOMT\obj\Debug\netcoreapp2.1\6.6Module Set Accessor.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\6.6Module TOMT\obj\Debug\netcoreapp2.1\6.6Module Set Accessor.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\6.6Module TOMT\obj\Debug\netcoreapp2.1\6.6Module Set Accessor.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\6.6Module TOMT\obj\Debug\netcoreapp2.1\6.6Module Set Accessor.AssemblyInfo.cs
