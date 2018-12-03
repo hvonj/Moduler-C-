@@ -1,0 +1,11 @@
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.1Modul Dividing chocolate\bin\Debug\netcoreapp2.1\8.1Modul Dividing chocolate.deps.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.1Modul Dividing chocolate\bin\Debug\netcoreapp2.1\8.1Modul Dividing chocolate.runtimeconfig.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.1Modul Dividing chocolate\bin\Debug\netcoreapp2.1\8.1Modul Dividing chocolate.runtimeconfig.dev.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.1Modul Dividing chocolate\bin\Debug\netcoreapp2.1\8.1Modul Dividing chocolate.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.1Modul Dividing chocolate\bin\Debug\netcoreapp2.1\8.1Modul Dividing chocolate.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.1Modul Dividing chocolate\obj\Debug\netcoreapp2.1\8.1Modul Dividing chocolate.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.1Modul Dividing chocolate\obj\Debug\netcoreapp2.1\8.1Modul Dividing chocolate.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.1Modul Dividing chocolate\obj\Debug\netcoreapp2.1\8.1Modul Dividing chocolate.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.1Modul Dividing chocolate\obj\Debug\netcoreapp2.1\8.1Modul Dividing chocolate.AssemblyInfo.cs
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.1Modul Dividing chocolate\obj\Debug\netcoreapp2.1\8.1Modul Dividing chocolate.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.1Modul Dividing chocolate\obj\Debug\netcoreapp2.1\8.1Modul Dividing chocolate.pdb
