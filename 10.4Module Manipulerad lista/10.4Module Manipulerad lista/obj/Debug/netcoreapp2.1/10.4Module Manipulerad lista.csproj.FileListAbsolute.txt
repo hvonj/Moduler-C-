@@ -1,0 +1,11 @@
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.4Module Manipulerad lista\10.4Module Manipulerad lista\bin\Debug\netcoreapp2.1\10.4Module Manipulerad lista.deps.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.4Module Manipulerad lista\10.4Module Manipulerad lista\bin\Debug\netcoreapp2.1\10.4Module Manipulerad lista.runtimeconfig.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.4Module Manipulerad lista\10.4Module Manipulerad lista\bin\Debug\netcoreapp2.1\10.4Module Manipulerad lista.runtimeconfig.dev.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.4Module Manipulerad lista\10.4Module Manipulerad lista\bin\Debug\netcoreapp2.1\10.4Module Manipulerad lista.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.4Module Manipulerad lista\10.4Module Manipulerad lista\bin\Debug\netcoreapp2.1\10.4Module Manipulerad lista.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.4Module Manipulerad lista\10.4Module Manipulerad lista\obj\Debug\netcoreapp2.1\10.4Module Manipulerad lista.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.4Module Manipulerad lista\10.4Module Manipulerad lista\obj\Debug\netcoreapp2.1\10.4Module Manipulerad lista.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.4Module Manipulerad lista\10.4Module Manipulerad lista\obj\Debug\netcoreapp2.1\10.4Module Manipulerad lista.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.4Module Manipulerad lista\10.4Module Manipulerad lista\obj\Debug\netcoreapp2.1\10.4Module Manipulerad lista.AssemblyInfo.cs
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.4Module Manipulerad lista\10.4Module Manipulerad lista\obj\Debug\netcoreapp2.1\10.4Module Manipulerad lista.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.4Module Manipulerad lista\10.4Module Manipulerad lista\obj\Debug\netcoreapp2.1\10.4Module Manipulerad lista.pdb

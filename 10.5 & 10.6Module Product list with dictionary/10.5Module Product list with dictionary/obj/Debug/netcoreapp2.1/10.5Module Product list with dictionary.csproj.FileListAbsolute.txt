@@ -1,0 +1,11 @@
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.5Module Product list with dictionary\10.5Module Product list with dictionary\bin\Debug\netcoreapp2.1\10.5Module Product list with dictionary.deps.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.5Module Product list with dictionary\10.5Module Product list with dictionary\bin\Debug\netcoreapp2.1\10.5Module Product list with dictionary.runtimeconfig.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.5Module Product list with dictionary\10.5Module Product list with dictionary\bin\Debug\netcoreapp2.1\10.5Module Product list with dictionary.runtimeconfig.dev.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.5Module Product list with dictionary\10.5Module Product list with dictionary\bin\Debug\netcoreapp2.1\10.5Module Product list with dictionary.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.5Module Product list with dictionary\10.5Module Product list with dictionary\bin\Debug\netcoreapp2.1\10.5Module Product list with dictionary.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.5Module Product list with dictionary\10.5Module Product list with dictionary\obj\Debug\netcoreapp2.1\10.5Module Product list with dictionary.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.5Module Product list with dictionary\10.5Module Product list with dictionary\obj\Debug\netcoreapp2.1\10.5Module Product list with dictionary.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.5Module Product list with dictionary\10.5Module Product list with dictionary\obj\Debug\netcoreapp2.1\10.5Module Product list with dictionary.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.5Module Product list with dictionary\10.5Module Product list with dictionary\obj\Debug\netcoreapp2.1\10.5Module Product list with dictionary.AssemblyInfo.cs
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.5Module Product list with dictionary\10.5Module Product list with dictionary\obj\Debug\netcoreapp2.1\10.5Module Product list with dictionary.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\10.5Module Product list with dictionary\10.5Module Product list with dictionary\obj\Debug\netcoreapp2.1\10.5Module Product list with dictionary.pdb

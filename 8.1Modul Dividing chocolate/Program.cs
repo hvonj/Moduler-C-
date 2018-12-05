@@ -43,7 +43,7 @@ namespace Uppg_8_1
 
                 Console.WriteLine($"Everyone gets {each} pieces. \n");
             }
-            catch (DivideByZeroException)
+            catch (DivideByZeroException)//"ex" för att hitta vilket fel det är 
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Zero People cant divide a chocolate!");

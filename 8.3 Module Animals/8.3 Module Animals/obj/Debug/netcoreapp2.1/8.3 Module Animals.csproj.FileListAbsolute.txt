@@ -1,0 +1,11 @@
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.3 Module Animals\8.3 Module Animals\bin\Debug\netcoreapp2.1\8.3 Module Animals.deps.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.3 Module Animals\8.3 Module Animals\bin\Debug\netcoreapp2.1\8.3 Module Animals.runtimeconfig.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.3 Module Animals\8.3 Module Animals\bin\Debug\netcoreapp2.1\8.3 Module Animals.runtimeconfig.dev.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.3 Module Animals\8.3 Module Animals\bin\Debug\netcoreapp2.1\8.3 Module Animals.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.3 Module Animals\8.3 Module Animals\bin\Debug\netcoreapp2.1\8.3 Module Animals.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.3 Module Animals\8.3 Module Animals\obj\Debug\netcoreapp2.1\8.3 Module Animals.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.3 Module Animals\8.3 Module Animals\obj\Debug\netcoreapp2.1\8.3 Module Animals.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.3 Module Animals\8.3 Module Animals\obj\Debug\netcoreapp2.1\8.3 Module Animals.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.3 Module Animals\8.3 Module Animals\obj\Debug\netcoreapp2.1\8.3 Module Animals.AssemblyInfo.cs
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.3 Module Animals\8.3 Module Animals\obj\Debug\netcoreapp2.1\8.3 Module Animals.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.3 Module Animals\8.3 Module Animals\obj\Debug\netcoreapp2.1\8.3 Module Animals.pdb

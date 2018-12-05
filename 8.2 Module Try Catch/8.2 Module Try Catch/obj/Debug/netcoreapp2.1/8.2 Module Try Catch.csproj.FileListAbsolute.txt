@@ -1,0 +1,11 @@
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.2 Module Try Catch\8.2 Module Try Catch\bin\Debug\netcoreapp2.1\8.2 Module Try Catch.deps.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.2 Module Try Catch\8.2 Module Try Catch\bin\Debug\netcoreapp2.1\8.2 Module Try Catch.runtimeconfig.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.2 Module Try Catch\8.2 Module Try Catch\bin\Debug\netcoreapp2.1\8.2 Module Try Catch.runtimeconfig.dev.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.2 Module Try Catch\8.2 Module Try Catch\bin\Debug\netcoreapp2.1\8.2 Module Try Catch.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.2 Module Try Catch\8.2 Module Try Catch\bin\Debug\netcoreapp2.1\8.2 Module Try Catch.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.2 Module Try Catch\8.2 Module Try Catch\obj\Debug\netcoreapp2.1\8.2 Module Try Catch.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.2 Module Try Catch\8.2 Module Try Catch\obj\Debug\netcoreapp2.1\8.2 Module Try Catch.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.2 Module Try Catch\8.2 Module Try Catch\obj\Debug\netcoreapp2.1\8.2 Module Try Catch.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.2 Module Try Catch\8.2 Module Try Catch\obj\Debug\netcoreapp2.1\8.2 Module Try Catch.AssemblyInfo.cs
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.2 Module Try Catch\8.2 Module Try Catch\obj\Debug\netcoreapp2.1\8.2 Module Try Catch.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\8.2 Module Try Catch\8.2 Module Try Catch\obj\Debug\netcoreapp2.1\8.2 Module Try Catch.pdb

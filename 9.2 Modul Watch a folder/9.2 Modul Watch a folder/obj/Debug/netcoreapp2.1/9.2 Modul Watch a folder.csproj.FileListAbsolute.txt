@@ -1,0 +1,11 @@
+C:\Projekt\AcceleratedLearning\CsharpExercises\9.2 Modul Watch a folder\9.2 Modul Watch a folder\bin\Debug\netcoreapp2.1\9.2 Modul Watch a folder.deps.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\9.2 Modul Watch a folder\9.2 Modul Watch a folder\bin\Debug\netcoreapp2.1\9.2 Modul Watch a folder.runtimeconfig.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\9.2 Modul Watch a folder\9.2 Modul Watch a folder\bin\Debug\netcoreapp2.1\9.2 Modul Watch a folder.runtimeconfig.dev.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\9.2 Modul Watch a folder\9.2 Modul Watch a folder\bin\Debug\netcoreapp2.1\9.2 Modul Watch a folder.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\9.2 Modul Watch a folder\9.2 Modul Watch a folder\bin\Debug\netcoreapp2.1\9.2 Modul Watch a folder.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\9.2 Modul Watch a folder\9.2 Modul Watch a folder\obj\Debug\netcoreapp2.1\9.2 Modul Watch a folder.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\9.2 Modul Watch a folder\9.2 Modul Watch a folder\obj\Debug\netcoreapp2.1\9.2 Modul Watch a folder.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\9.2 Modul Watch a folder\9.2 Modul Watch a folder\obj\Debug\netcoreapp2.1\9.2 Modul Watch a folder.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\9.2 Modul Watch a folder\9.2 Modul Watch a folder\obj\Debug\netcoreapp2.1\9.2 Modul Watch a folder.AssemblyInfo.cs
+C:\Projekt\AcceleratedLearning\CsharpExercises\9.2 Modul Watch a folder\9.2 Modul Watch a folder\obj\Debug\netcoreapp2.1\9.2 Modul Watch a folder.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\9.2 Modul Watch a folder\9.2 Modul Watch a folder\obj\Debug\netcoreapp2.1\9.2 Modul Watch a folder.pdb
