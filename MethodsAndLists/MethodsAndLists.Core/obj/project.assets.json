@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\11.Module Linq\\11Module\\11Module.csproj",
-      "projectName": "11Module",
-      "projectPath": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\11.Module Linq\\11Module\\11Module.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\MethodsAndLists\\MethodsAndLists.Core\\MethodsAndLists.Core.csproj",
+      "projectName": "MethodsAndLists.Core",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\MethodsAndLists\\MethodsAndLists.Core\\MethodsAndLists.Core.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\11.Module Linq\\11Module\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\MethodsAndLists\\MethodsAndLists.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -722,6 +722,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
