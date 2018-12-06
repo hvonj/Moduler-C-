@@ -1,0 +1,17 @@
+C:\Projekt\AcceleratedLearning\CsharpExercises\11Module\11Module\obj\Debug\netcoreapp2.1\11Module.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\11Module\11Module\obj\Debug\netcoreapp2.1\11Module.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\11Module\11Module\obj\Debug\netcoreapp2.1\11Module.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\11Module\11Module\obj\Debug\netcoreapp2.1\11Module.AssemblyInfo.cs
+C:\Projekt\AcceleratedLearning\CsharpExercises\11Module\11Module\bin\Debug\netcoreapp2.1\11Module.deps.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\11Module\11Module\bin\Debug\netcoreapp2.1\11Module.runtimeconfig.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\11Module\11Module\bin\Debug\netcoreapp2.1\11Module.runtimeconfig.dev.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\11Module\11Module\bin\Debug\netcoreapp2.1\11Module.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\11Module\11Module\bin\Debug\netcoreapp2.1\11Module.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\11Module\11Module\obj\Debug\netcoreapp2.1\11Module.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\11Module\11Module\obj\Debug\netcoreapp2.1\11Module.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\11. Methods&Lists, Linq tester.1\11Module\obj\Debug\netcoreapp2.1\11Module.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\11. Methods&Lists, Linq tester.1\11Module\obj\Debug\netcoreapp2.1\11Module.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\11. Methods&Lists, Linq tester.1\11Module\obj\Debug\netcoreapp2.1\11Module.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\11. Methods&Lists, Linq tester.1\11Module\obj\Debug\netcoreapp2.1\11Module.AssemblyInfo.cs
+C:\Projekt\AcceleratedLearning\CsharpExercises\11. Methods&Lists, Linq tester.1\11Module\obj\Debug\netcoreapp2.1\11Module.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\11. Methods&Lists, Linq tester.1\11Module\obj\Debug\netcoreapp2.1\11Module.pdb
