@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\MethodsAndLists\MethodsAndLists.Core\bin\Debug\netcoreapp2.1\MethodsAndLists.Core.deps.json
+C:\Users\Administrator\Desktop\MethodsAndLists\MethodsAndLists.Core\bin\Debug\netcoreapp2.1\MethodsAndLists.Core.dll
+C:\Users\Administrator\Desktop\MethodsAndLists\MethodsAndLists.Core\bin\Debug\netcoreapp2.1\MethodsAndLists.Core.pdb
+C:\Users\Administrator\Desktop\MethodsAndLists\MethodsAndLists.Core\obj\Debug\netcoreapp2.1\MethodsAndLists.Core.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MethodsAndLists\MethodsAndLists.Core\obj\Debug\netcoreapp2.1\MethodsAndLists.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MethodsAndLists\MethodsAndLists.Core\obj\Debug\netcoreapp2.1\MethodsAndLists.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\MethodsAndLists\MethodsAndLists.Core\obj\Debug\netcoreapp2.1\MethodsAndLists.Core.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\MethodsAndLists\MethodsAndLists.Core\obj\Debug\netcoreapp2.1\MethodsAndLists.Core.dll
+C:\Users\Administrator\Desktop\MethodsAndLists\MethodsAndLists.Core\obj\Debug\netcoreapp2.1\MethodsAndLists.Core.pdb
