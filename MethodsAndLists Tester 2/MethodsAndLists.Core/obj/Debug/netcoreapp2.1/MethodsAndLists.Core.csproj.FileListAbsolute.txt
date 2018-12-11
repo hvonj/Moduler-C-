@@ -7,3 +7,12 @@ C:\Users\Administrator\Desktop\MethodsAndLists\MethodsAndLists.Core\obj\Debug\ne
 C:\Users\Administrator\Desktop\MethodsAndLists\MethodsAndLists.Core\obj\Debug\netcoreapp2.1\MethodsAndLists.Core.AssemblyInfo.cs
 C:\Users\Administrator\Desktop\MethodsAndLists\MethodsAndLists.Core\obj\Debug\netcoreapp2.1\MethodsAndLists.Core.dll
 C:\Users\Administrator\Desktop\MethodsAndLists\MethodsAndLists.Core\obj\Debug\netcoreapp2.1\MethodsAndLists.Core.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Core\obj\Debug\netcoreapp2.1\MethodsAndLists.Core.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Core\obj\Debug\netcoreapp2.1\MethodsAndLists.Core.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Core\obj\Debug\netcoreapp2.1\MethodsAndLists.Core.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Core\obj\Debug\netcoreapp2.1\MethodsAndLists.Core.AssemblyInfo.cs
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Core\obj\Debug\netcoreapp2.1\MethodsAndLists.Core.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Core\obj\Debug\netcoreapp2.1\MethodsAndLists.Core.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Core\bin\Debug\netcoreapp2.1\MethodsAndLists.Core.deps.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Core\bin\Debug\netcoreapp2.1\MethodsAndLists.Core.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Core\bin\Debug\netcoreapp2.1\MethodsAndLists.Core.pdb

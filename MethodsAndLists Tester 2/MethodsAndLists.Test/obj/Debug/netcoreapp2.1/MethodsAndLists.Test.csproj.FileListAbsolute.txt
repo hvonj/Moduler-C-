@@ -15,3 +15,20 @@ C:\Users\Administrator\Desktop\MethodsAndLists\MethodsAndLists.Test\obj\Debug\ne
 C:\Users\Administrator\Desktop\MethodsAndLists\MethodsAndLists.Test\obj\Debug\netcoreapp2.1\MethodsAndLists.Test.csproj.CopyComplete
 C:\Users\Administrator\Desktop\MethodsAndLists\MethodsAndLists.Test\obj\Debug\netcoreapp2.1\MethodsAndLists.Test.dll
 C:\Users\Administrator\Desktop\MethodsAndLists\MethodsAndLists.Test\obj\Debug\netcoreapp2.1\MethodsAndLists.Test.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Test\bin\Debug\netcoreapp2.1\MethodsAndLists.Test.deps.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Test\bin\Debug\netcoreapp2.1\MethodsAndLists.Test.runtimeconfig.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Test\bin\Debug\netcoreapp2.1\MethodsAndLists.Test.runtimeconfig.dev.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Test\bin\Debug\netcoreapp2.1\MethodsAndLists.Test.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Test\bin\Debug\netcoreapp2.1\MethodsAndLists.Test.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Test\bin\Debug\netcoreapp2.1\MethodsAndLists.Core.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Test\bin\Debug\netcoreapp2.1\MethodsAndLists.Core.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Test\obj\Debug\netcoreapp2.1\MethodsAndLists.Test.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Test\obj\Debug\netcoreapp2.1\MethodsAndLists.Test.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Test\obj\Debug\netcoreapp2.1\MethodsAndLists.Test.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Test\obj\Debug\netcoreapp2.1\MethodsAndLists.Test.AssemblyInfo.cs
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Test\obj\Debug\netcoreapp2.1\MethodsAndLists.Test.csproj.CopyComplete
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Test\obj\Debug\netcoreapp2.1\MethodsAndLists.Test.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\MethodsAndLists Tester 2\MethodsAndLists.Test\obj\Debug\netcoreapp2.1\MethodsAndLists.Test.pdb

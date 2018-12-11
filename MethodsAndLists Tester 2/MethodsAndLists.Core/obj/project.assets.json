@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\MethodsAndLists\\MethodsAndLists.Core\\MethodsAndLists.Core.csproj",
+      "projectUniqueName": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\MethodsAndLists Tester 2\\MethodsAndLists.Core\\MethodsAndLists.Core.csproj",
       "projectName": "MethodsAndLists.Core",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\MethodsAndLists\\MethodsAndLists.Core\\MethodsAndLists.Core.csproj",
+      "projectPath": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\MethodsAndLists Tester 2\\MethodsAndLists.Core\\MethodsAndLists.Core.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\MethodsAndLists\\MethodsAndLists.Core\\obj\\",
+      "outputPath": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\MethodsAndLists Tester 2\\MethodsAndLists.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
