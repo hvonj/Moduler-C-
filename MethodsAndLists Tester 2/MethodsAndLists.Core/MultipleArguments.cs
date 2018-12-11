@@ -199,12 +199,12 @@ namespace MethodsAndLists.Core
         public int[] RotateList(int[] list, int rotation)
 
         {
-            //if (list == null)
-            //    throw new ArgumentException();
+            if (list == null)
+                throw new ArgumentException();
 
             var newList = list.ToList();
 
-            if (rotation == 0)
+            if (rotation == 0)  //om input är 0 så ska vi retunera listan som den är 
             {
                 return list;
             }
@@ -215,7 +215,7 @@ namespace MethodsAndLists.Core
 
                 for (int i = 0; i < rotation; i++)
                 {
-                    moving = newList[list.Length - 1];
+                    moving = newList[list.Length - 1];      //om rotationen är större än 0 så ska vi flytta listan (ta bort den sista och sätter längst fram)
                     newList.RemoveAt(newList.Count - 1);
                     newList.Insert(0, moving);
                 }
@@ -230,10 +230,14 @@ namespace MethodsAndLists.Core
                 for (int i = 0; i < times; i++)
                 {
                     moving2 = newList[0];
-                    newList.Insert(newList.Count, moving2);
+                    newList.Insert(newList.Count, moving2); // tar bort första och sätter längst bak (-2 rotera till vänster, +2 rotera till höger)
                     newList.RemoveAt(0);
                 }
                 return newList.ToArray();
+
+                // Linq (Skip och Take) ....list.Skip, list.Take (plocka ut första och sista delen i listan)               
+
+                //return list.Select((x, i) => list[(i - rotation % list.Length + list.Length) % list.Length]).ToArray();
             }
         }
     }

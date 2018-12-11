@@ -1,0 +1,11 @@
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module 11.2 list of Customers\Module 11.2 list of Customers\bin\Debug\netcoreapp2.1\Module 11.2 list of Customers.deps.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module 11.2 list of Customers\Module 11.2 list of Customers\bin\Debug\netcoreapp2.1\Module 11.2 list of Customers.runtimeconfig.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module 11.2 list of Customers\Module 11.2 list of Customers\bin\Debug\netcoreapp2.1\Module 11.2 list of Customers.runtimeconfig.dev.json
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module 11.2 list of Customers\Module 11.2 list of Customers\bin\Debug\netcoreapp2.1\Module 11.2 list of Customers.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module 11.2 list of Customers\Module 11.2 list of Customers\bin\Debug\netcoreapp2.1\Module 11.2 list of Customers.pdb
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module 11.2 list of Customers\Module 11.2 list of Customers\obj\Debug\netcoreapp2.1\Module 11.2 list of Customers.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module 11.2 list of Customers\Module 11.2 list of Customers\obj\Debug\netcoreapp2.1\Module 11.2 list of Customers.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module 11.2 list of Customers\Module 11.2 list of Customers\obj\Debug\netcoreapp2.1\Module 11.2 list of Customers.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module 11.2 list of Customers\Module 11.2 list of Customers\obj\Debug\netcoreapp2.1\Module 11.2 list of Customers.AssemblyInfo.cs
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module 11.2 list of Customers\Module 11.2 list of Customers\obj\Debug\netcoreapp2.1\Module 11.2 list of Customers.dll
+C:\Projekt\AcceleratedLearning\CsharpExercises\Module 11.2 list of Customers\Module 11.2 list of Customers\obj\Debug\netcoreapp2.1\Module 11.2 list of Customers.pdb
