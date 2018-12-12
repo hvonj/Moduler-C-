@@ -1,0 +1,4 @@
+C:\Projekt\AcceleratedLearning\CsharpExercises\12.1 Module List of rockstars\12.1 Module List of rockstars\obj\Debug\netcoreapp2.1\12.1 Module List of rockstars.csprojAssemblyReference.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\12.1 Module List of rockstars\12.1 Module List of rockstars\obj\Debug\netcoreapp2.1\12.1 Module List of rockstars.csproj.CoreCompileInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\12.1 Module List of rockstars\12.1 Module List of rockstars\obj\Debug\netcoreapp2.1\12.1 Module List of rockstars.AssemblyInfoInputs.cache
+C:\Projekt\AcceleratedLearning\CsharpExercises\12.1 Module List of rockstars\12.1 Module List of rockstars\obj\Debug\netcoreapp2.1\12.1 Module List of rockstars.AssemblyInfo.cs

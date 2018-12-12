@@ -194,7 +194,25 @@ namespace MethodsAndLists.Core
 
 
 
+        public void Kalle()
+        {
+            Console.WriteLine("yyy");
+            string x = Console.ReadLine();
 
+            if (x == "ja")
+            {
+                return;
+            }
+
+            Console.WriteLine("xxx");
+        }
+
+
+
+        public int Lisa()
+        {
+            Console.WriteLine("yyy");
+        }
 
         public int[] RotateList(int[] list, int rotation)
 
@@ -216,8 +234,8 @@ namespace MethodsAndLists.Core
                 for (int i = 0; i < rotation; i++)
                 {
                     moving = newList[list.Length - 1];      //om rotationen är större än 0 så ska vi flytta listan (ta bort den sista och sätter längst fram)
-                    newList.RemoveAt(newList.Count - 1);
-                    newList.Insert(0, moving);
+                    newList.RemoveAt(newList.Count - 1); // ta bort sista elementet i "newList"
+                    newList.Insert(0, moving);          // lägg in heltalet "moving" först i "newList"
                 }
                 return newList.ToArray();
             }
