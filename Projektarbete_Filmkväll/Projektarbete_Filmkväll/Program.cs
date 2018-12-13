@@ -107,8 +107,30 @@ namespace Projektarbete_Filmkväll
 
             //    }
             //}
-            Console.WriteLine($"Perfekt! Men hur gammal är du {userinput[0]}?");
-            userinput[3] = Console.ReadLine();
+            Console.WriteLine($"Perfekt! Men hur gammal är du {userinput[0]}?"); //tillåt endast siffror
+
+            while (true)
+            {
+                userinput[3] = Console.ReadLine();
+                if (string.IsNullOrWhiteSpace(userinput[3]))
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Du måste skriva en ålder!");
+                    Console.ResetColor();
+                    continue;
+                }
+                    Match match = Regex.Match(userinput[3], @"^[0-9]\d$");
+                if (!match.Success)
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Du måste ange ålder i siffror! \n");
+                    Console.ResetColor();
+                    continue;
+                }
+                else
+                    break;
+            }
+
             Console.WriteLine("Från vilken tid har du tänkt dig?");
 
             while (true)
@@ -213,9 +235,7 @@ namespace Projektarbete_Filmkväll
     }
 }
 // Ändra hemmakväll & bio till stor första bokstav
-// Lös så att Å,Ä,Ö fungerar i textfilen
 // Exception på genre (lägg till så att användaren inte kan söka på genre som inte finns... "Den genre du angav finns inte tillgänglig ikväll"
 // Gör textfärger, ändra typsnitt och storlek 
 // Clean code (Linq)
 // Gör ruta/stjärnor eller dylikt runt consolen för att spice'a upp lite :)
-// saraglavin
