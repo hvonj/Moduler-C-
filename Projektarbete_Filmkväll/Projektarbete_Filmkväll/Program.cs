@@ -235,6 +235,7 @@ namespace Projektarbete_Filmkväll
     }
 }
 // Ändra hemmakväll & bio till stor första bokstav
+// Användaren ska kunna skriva med stora och små bokstäver
 // Exception på genre (lägg till så att användaren inte kan söka på genre som inte finns... "Den genre du angav finns inte tillgänglig ikväll"
 // Gör textfärger, ändra typsnitt och storlek 
 // Clean code (Linq)
