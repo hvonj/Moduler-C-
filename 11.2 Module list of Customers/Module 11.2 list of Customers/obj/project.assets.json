@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\Module 11.2 list of Customers\\Module 11.2 list of Customers\\Module 11.2 list of Customers.csproj",
+      "projectUniqueName": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\11.2 Module list of Customers\\Module 11.2 list of Customers\\Module 11.2 list of Customers.csproj",
       "projectName": "Module 11.2 list of Customers",
-      "projectPath": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\Module 11.2 list of Customers\\Module 11.2 list of Customers\\Module 11.2 list of Customers.csproj",
+      "projectPath": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\11.2 Module list of Customers\\Module 11.2 list of Customers\\Module 11.2 list of Customers.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\Module 11.2 list of Customers\\Module 11.2 list of Customers\\obj\\",
+      "outputPath": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\11.2 Module list of Customers\\Module 11.2 list of Customers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

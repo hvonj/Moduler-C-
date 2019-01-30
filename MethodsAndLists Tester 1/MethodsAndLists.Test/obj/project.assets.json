@@ -5727,11 +5727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\Modul Tester - MethodsAndLists\\MethodsAndLists.Test\\MethodsAndLists.Test.csproj",
+      "projectUniqueName": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\MethodsAndLists Tester 1\\MethodsAndLists.Test\\MethodsAndLists.Test.csproj",
       "projectName": "MethodsAndLists.Test",
-      "projectPath": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\Modul Tester - MethodsAndLists\\MethodsAndLists.Test\\MethodsAndLists.Test.csproj",
+      "projectPath": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\MethodsAndLists Tester 1\\MethodsAndLists.Test\\MethodsAndLists.Test.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\Modul Tester - MethodsAndLists\\MethodsAndLists.Test\\obj\\",
+      "outputPath": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\MethodsAndLists Tester 1\\MethodsAndLists.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5750,8 +5750,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\Modul Tester - MethodsAndLists\\MethodsAndLists.Core\\MethodsAndLists.Core.csproj": {
-              "projectPath": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\Modul Tester - MethodsAndLists\\MethodsAndLists.Core\\MethodsAndLists.Core.csproj"
+            "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\MethodsAndLists Tester 1\\MethodsAndLists.Core\\MethodsAndLists.Core.csproj": {
+              "projectPath": "C:\\Projekt\\AcceleratedLearning\\CsharpExercises\\MethodsAndLists Tester 1\\MethodsAndLists.Core\\MethodsAndLists.Core.csproj"
             }
           }
         }
